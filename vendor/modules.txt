@@ -1,0 +1,4 @@
+# github.com/Kagami/go-face v0.0.0-20190308235700-97bf298c303b
+github.com/Kagami/go-face
+# gocv.io/x/gocv v0.19.0
+gocv.io/x/gocv

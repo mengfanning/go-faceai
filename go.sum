@@ -1,0 +1,4 @@
+github.com/Kagami/go-face v0.0.0-20190308235700-97bf298c303b h1:LTngtrWx28IGuWwd8vGHc7jc1i2sYemAx2kKTeJhBhs=
+github.com/Kagami/go-face v0.0.0-20190308235700-97bf298c303b/go.mod h1:6V3Zb/7DyezDSai6K1gDrTtN02RpvIFzQBHUEDAcjNI=
+gocv.io/x/gocv v0.19.0 h1:S/V3wt7n6XD1IiLNutMunyoMhL9kkZ/5hFhrTrqNBUI=
+gocv.io/x/gocv v0.19.0/go.mod h1:3qacsKAMRS0sZmeLySWcbFeVEU3t86igWaQleAgiuBg=
